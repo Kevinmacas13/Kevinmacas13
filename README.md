@@ -13,7 +13,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
 
-- I am a `Junior Developer` gradudado en la [Escuela Politécnica Nacional](https://webhistorico.epn.edu.ec/)
+- Soy un `Junior Developer` graduado en la [Escuela Politécnica Nacional](https://webhistorico.epn.edu.ec/)
 - Tecnologías: **Actualmente trabajando en** `Desarrollo móvil ` **&** `Ciberseguridad`
 - Sobre mi: Puedes visitar [MY WEBSITE](https://kevin-macas-portfolio.netlify.app/) para que conozcas sobre mis desarrollos fronted
 - Correo: Contáctame **por mi correo** [![Send me Email](https://img.shields.io/static/v1?label=email&message=kevinmacash&color=EA4335&style=flat-square)](mailto:kevinmacash@gmail.com)
