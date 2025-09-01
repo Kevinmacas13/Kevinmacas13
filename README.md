@@ -5,29 +5,27 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, Soy Kevin Macas</h1></summary>
+    <summary><h1 style="display: inline-block">Hola👋, Soy Kevin Macas</h1></summary>
   </ul>
 </div>
 
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
 
-<!-- <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture> -->
-
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-<!-- - :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship` -->
-- :technologist: **Currently working on** `Frontend Development` **&** `Cyber security`
-- :Sobre mi: You can visit [MY WEBSITE](https://kevin-macas-portfolio.netlify.app/) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=ElioChiu&color=EA4335&style=flat-square)](mailto:kevinmacash@gmail.com)
+- I am a `Junior Developer` gradudado en la [Escuela Politécnica Nacional](https://webhistorico.epn.edu.ec/)
+- Tecnologías: **Actualmente trabajando en** `Desarrollo móvil ` **&** `Ciberseguridad`
+- Sobre mi: Puedes visitar [MY WEBSITE](https://kevin-macas-portfolio.netlify.app/) para que conozcas sobre mis desarrollos fronted
+- Correo: Contáctame **por mi correo** [![Send me Email](https://img.shields.io/static/v1?label=email&message=kevinmacash&color=EA4335&style=flat-square)](mailto:kevinmacash@gmail.com)
 <!-- - :nerd_face: Always believe `"You are what you loved"` -->
 
 <br>
 
-## 🛠️ My Skills
+## 🛠️ Mis Habilidades
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> </picture> Programming languages
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -51,8 +49,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px> </picture> IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px> </picture> Operating Systems
 
@@ -63,7 +60,7 @@
 
 <br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> </picture> Estadísticas Github
 
 <!--- stats & Trophy (start) -->
 
@@ -72,29 +69,19 @@
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ElioChiu&theme=dark&show_icons=true&count_private=true" />
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Kevinmacas13&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinmacas13&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinmacas13u&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinmacas13&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
-
-<!-- <div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ElioChiu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div> -->
-
-<!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
 
@@ -115,3 +102,4 @@
 Credit: [ElioChiu](https://github.com/ElioChiu)
 
 Last Edited on: 01/09/2025
+
